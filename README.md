@@ -1,11 +1,9 @@
 "사용한 데이터와 학습된 모델 데이터는 업로드 한계 때문에 업로드하지 못함."
 
 사용 데이터
-
 https://drive.google.com/file/d/1BIW9LpoDetqOzN8FbWHgle--Wugsyk0d/view?usp=drive_link
 
 최종 모델 학습 시 사용된 데이터
-
 https://docs.google.com/spreadsheets/d/1DP0UjuVIT6Oz5pCiL45Gqf1WB2Zbzdjl/edit?usp=drive_link&ouid=115590581604226607749&rtpof=true&sd=true
 
 사용 모델
