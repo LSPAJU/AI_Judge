@@ -1,8 +1,10 @@
 "사용한 데이터와 학습된 모델 데이터는 업로드 한계 때문에 업로드하지 못함."
 
-사용 데이터  https://drive.google.com/file/d/1BIW9LpoDetqOzN8FbWHgle--Wugsyk0d/view?usp=drive_link
+사용 데이터
+: https://drive.google.com/file/d/1BIW9LpoDetqOzN8FbWHgle--Wugsyk0d/view?usp=drive_link
 
-최종 모델 학습 시 사용된 데이터  https://docs.google.com/spreadsheets/d/1DP0UjuVIT6Oz5pCiL45Gqf1WB2Zbzdjl/edit?usp=drive_link&ouid=115590581604226607749&rtpof=true&sd=true
+최종 모델 학습 시 사용된 데이터
+: https://docs.google.com/spreadsheets/d/1DP0UjuVIT6Oz5pCiL45Gqf1WB2Zbzdjl/edit?usp=drive_link&ouid=115590581604226607749&rtpof=true&sd=true
 
 사용 모델
 1. 임시 버전 https://drive.google.com/file/d/1uqzVT1Zze4EE5M2uADnQ3IbYnVUr39mf/view?usp=drive_link
@@ -35,7 +37,7 @@ transformers 라이브러리를 통해 비교 모델인 'klue/bert-base', 'monol
 https://arxiv.org/abs/2206.05224
 
 
-참고 블로그 (크롤링)
+참고 블로그 (크롤링 관련)
 
 https://velog.io/@suba0113/%EB%B2%95%EB%A0%B9-%EB%8D%B0%EC%9D%B4%ED%84%B0-%EA%B5%AC%EC%B6%95-2.-OPEN-API-%EB%8D%B0%EC%9D%B4%ED%84%B0-%EC%88%98%EC%A7%91
 
